@@ -1,0 +1,8 @@
+[Wed Dec 20 19:51:20 EET 2023] SERVER -> Test1: Test1 приєднався до чату.
+[Wed Dec 20 19:51:26 EET 2023] SERVER -> Test2: Test2 приєднався до чату.
+[Wed Dec 20 19:51:29 EET 2023] SERVER -> Test3: Test3 приєднався до чату.
+[Wed Dec 20 19:51:47 EET 2023] Test1 -> Test2: global message
+[Wed Dec 20 19:51:47 EET 2023] Test1 -> Test1: global message
+[Wed Dec 20 19:51:47 EET 2023] Test1 -> Test3: global message
+[Wed Dec 20 19:52:32 EET 2023] Test1 -> Test3: private message
+[Wed Dec 20 19:53:00 EET 2023] SERVER -> Test1: Користувача з таким іменем не існує

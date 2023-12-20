@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: uni.makarov.parallel_processing.lab2.server.Server
+
